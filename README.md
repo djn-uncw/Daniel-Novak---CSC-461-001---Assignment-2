@@ -14,11 +14,18 @@ This project is my take on a VR museum: a museum of arcade games. This topic was
 
 <img width="1381" height="752" alt="Screenshot 2026-10-01 205054" src="https://github.com/user-attachments/assets/dbf64765-30d7-4914-820e-4097322df883" />
 
-## Credits
+## Asset Credits
 
 Arcade carpet texture by Luckius: https://opengameart.org/content/arcade-carpet-textures
 
 Arcade machines by daystar65: https://free3d.com/user/daystar65
+
+## Sources
+https://www.gameroomshop.com/blogs/news/types-of-arcade-games-explained
+https://www.betson.com/the-history-of-skee-ball-a-century-of-fun/
+https://www.bmigaming.com/pinballhistory.htm
+https://www.museumofplay.org/games/computer-space/
+https://www.guinnessworldrecords.com/world-records/461622-first-rhythm-action-arcade-videogame
 
 
 
