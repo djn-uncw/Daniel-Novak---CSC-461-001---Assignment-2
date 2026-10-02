@@ -22,9 +22,13 @@ Arcade machines by daystar65: https://free3d.com/user/daystar65
 
 ## Sources
 https://www.gameroomshop.com/blogs/news/types-of-arcade-games-explained
+
 https://www.betson.com/the-history-of-skee-ball-a-century-of-fun/
+
 https://www.bmigaming.com/pinballhistory.htm
+
 https://www.museumofplay.org/games/computer-space/
+
 https://www.guinnessworldrecords.com/world-records/461622-first-rhythm-action-arcade-videogame
 
 
